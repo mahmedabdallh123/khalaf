@@ -14,7 +14,7 @@ from github import Github, GithubException
 
 # ------------------------------- الإعدادات الثابتة -------------------------------
 APP_CONFIG = {
-    "APP_TITLE": "خلف- CMMS",
+    "APP_TITLE": "khalaf- CMMS",
     "APP_ICON": "🏭",
     "REPO_NAME": "mahmedabdallh123/khalaf",
     "BRANCH": "main",
